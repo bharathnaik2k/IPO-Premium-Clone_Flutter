@@ -13,4 +13,4 @@ Using Reqres Dummy API Data - REST API
 
 ## Screenshots
 
-![App Screenshot](https://i.ibb.co/hDtKTCX/20240831-110457.jpg)
+![App Screenshot](https://iili.io/dNz0tKN.jpg)
