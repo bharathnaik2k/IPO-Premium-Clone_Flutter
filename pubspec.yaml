@@ -94,8 +94,5 @@ flutter:
       fonts:
         - asset: assets/font/blogger_sans_bold.ttf
         
-  
-  #
-  # For details regarding fonts from package dependencies,
-  # see https://flutter.dev/custom-fonts/#from-packages
+
   
