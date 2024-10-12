@@ -16,4 +16,4 @@ https://reqres.in/api/users?page=2
 
 ## Screenshots
 
-![App Screenshot](https://iili.io/dNz0tKN.jpg)
+![App Screenshot](https://github.com/bharathnaik2k/IPO-Premium-Clone_Flutter/blob/main/preview2.jpeg)
